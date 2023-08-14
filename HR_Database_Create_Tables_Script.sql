@@ -1,7 +1,7 @@
 ------------------------------------------
 --DDL statement for table 'HR' database--
 --------------------------------------------
-
+--TEST COMMENT
 -- Drop the tables in case they exist
 
 DROP TABLE EMPLOYEES;
