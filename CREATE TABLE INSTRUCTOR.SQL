@@ -1,0 +1,7 @@
+CREATE TABLE INSTRUCTOR (
+	ins_id INT PRIMARY KEY NOT NULL, 
+	lastname VAR CHAR NOT NULL, 
+	firstname VAR CHAR NOT NULL, 
+	city VAR CHAR, 
+	country CHAR(2)
+	);
